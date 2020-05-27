@@ -1,2 +1,2 @@
 # GitTest
-Ez egy teszt.
+Ez egy TEEESSSZT.
